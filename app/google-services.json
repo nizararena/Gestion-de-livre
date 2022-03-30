@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "356987763692",
+    "project_id": "book-baeac",
+    "storage_bucket": "book-baeac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356987763692:android:9e027340bb24cdaf44dec9",
+        "android_client_info": {
+          "package_name": "com.gestiondelivres.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356987763692-sgegsr9vdf47v2okdcucak51f99bcejt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlnnOM-EiTe-4P9HXCwVGnODqw5IFB1cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356987763692-sgegsr9vdf47v2okdcucak51f99bcejt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

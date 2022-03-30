@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gestion De Livres</string>
+    <string name="login_header">Login</string>
+    <string name="avatar">Avatar</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="log_in">Login</string>
+    <string name="not_a_member">Not registered?</string>
+    <string name="ConfirmPassword">Confirm password</string>
+    <string name="are_you_registered">Are you registered?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="register">Register</string>
+    <string name="title_list_activity">Book List</string>
+
+</resources>
